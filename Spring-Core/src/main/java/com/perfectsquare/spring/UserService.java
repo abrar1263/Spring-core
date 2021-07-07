@@ -1,4 +1,4 @@
-package com.perfectsquare.core;
+package com.perfectsquare.spring;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
